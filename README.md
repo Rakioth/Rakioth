@@ -15,7 +15,7 @@ raks@github
 🏴‍☠️ Currently involved with Vue & Spring Boot
 🚩 Interested in clean architecture and web security
 💖 Aesthetic enthusiast, crafting digital allure
-💻 Total commits: 186
+💻 Total commits: 199
 ⭐ Total stars gained: 1
 ```
 
